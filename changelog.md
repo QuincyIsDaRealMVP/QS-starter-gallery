@@ -4,6 +4,26 @@ Team membership:  Sheldon Lynn (Captain) & Quincy Lam (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## *Version 0.3*
+
+Release Date: Jan 26, 2018
+
+## New Components
+	-Views
+	---- _cell.php to load in images into table
+	-Models
+	---- Images.php to load pictures from database
+
+## Updated Components
+    - Controllers
+    ---- Welcome.php renders images from database
+    ---- Gallery.php renders images from database
+    - Views
+    ---- welcome.php renders images from database
+    ---- gallery.php renders images from database
+	
+
+
 ## *Version 0.2*
 
 Release Date: Jan 24, 2018
